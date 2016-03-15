@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<title>Insert title here</title>
+<title>Golden Dawn</title>
 </head>
 <body>
 
